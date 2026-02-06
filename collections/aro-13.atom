@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mercado-produtos2024-seguro.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mercado-produtos2024-seguro.shop/collections/aro-13.atom"/>
+  <title>Mercado Promoções</title>
+  <updated>2024-10-15T10:24:33-03:00</updated>
+  <author>
+    <name>Mercado Promoções</name>
+  </author>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9748061192511</id>
+    <published>2024-10-15T10:24:33-03:00</published>
+    <updated>2024-10-15T10:24:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf600-17575r13-aro-13-84t"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>175/75 R13</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/165-70R13.jpg_v=1728999150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>175/75 R13<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aumente a sua segurança com a avançada tecnologia desse pneu. Este pneu proporciona distâncias de frenagem seguras e uma aderência superior, proporcionando-lhe tranquilidade ao volante e segurança para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9748061192511</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>118966</s:sku>
+      <s:grams>5900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9748061159743</id>
+    <published>2024-10-15T10:24:33-03:00</published>
+    <updated>2024-10-15T10:24:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-comfort-ii-17570r13-aro-13-82t"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>175/70 R13</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/175-60R13.jpg_v=1728999305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>175/70 R13<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aumente a sua segurança com a avançada tecnologia desse pneu. Este pneu proporciona distâncias de frenagem seguras e uma aderência superior, proporcionando-lhe tranquilidade ao volante e segurança para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9748061159743</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>103438</s:sku>
+      <s:grams>6140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9748061126975</id>
+    <published>2024-10-15T10:24:32-03:00</published>
+    <updated>2024-10-15T10:24:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf688-16570r13-aro-13-79t"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>165/70 R13</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="../ml/aro13/17570R13.webp"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>165/70 R13<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aumente a sua segurança com a avançada tecnologia desse pneu. Este pneu proporciona distâncias de frenagem seguras e uma aderência superior, proporcionando-lhe tranquilidade ao volante e segurança para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9748061126975</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>120570</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9748061094207</id>
+    <published>2024-10-15T10:24:32-03:00</published>
+    <updated>2024-10-15T10:24:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf600-16570r13-aro-13-79t"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>165/70 R13</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="../ml/aro13/16570R13.webp"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>165/70 R13<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aumente a sua segurança com a avançada tecnologia desse pneu. Este pneu proporciona distâncias de frenagem seguras e uma aderência superior, proporcionando-lhe tranquilidade ao volante e segurança para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9748061094207</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>111198</s:sku>
+      <s:grams>6090</s:grams>
+    </s:variant>
+  </entry>
+</feed>

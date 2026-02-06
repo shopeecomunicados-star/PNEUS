@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mercado-produtos2024-seguro.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mercado-produtos2024-seguro.shop/collections/aro-15.atom"/>
+  <title>Mercado Promoções</title>
+  <updated>2024-10-16T08:15:28-03:00</updated>
+  <author>
+    <name>Mercado Promoções</name>
+  </author>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750927311167</id>
+    <published>2024-10-16T08:15:28-03:00</published>
+    <updated>2024-10-16T08:15:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-comfort-ii-19545r15-aro-15-82v-xl"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/45 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/185-60R15.jpg_v=1729077378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/45 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750927311167</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>94536</s:sku>
+      <s:grams>6940</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750925672767</id>
+    <published>2024-10-16T08:15:06-03:00</published>
+    <updated>2024-10-16T08:15:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-mazzini-eco809-18560r15-aro-15-84h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/185-65R15.jpg_v=1729077434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750925672767</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>100072</s:sku>
+      <s:grams>6980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750925607231</id>
+    <published>2024-10-16T08:15:06-03:00</published>
+    <updated>2024-10-16T08:15:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-comfort-ii-19560r15-aro-15-88h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/195-55R15.jpg_v=1729077471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750925607231</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>86533</s:sku>
+      <s:grams>7510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750925574463</id>
+    <published>2024-10-16T08:15:06-03:00</published>
+    <updated>2024-10-16T08:15:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-milever-mp270-19565r15-aro-15-91h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/65 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/195-60R15.jpg_v=1729077511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/65 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750925574463</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>108081</s:sku>
+      <s:grams>7860</s:grams>
+    </s:variant>
+  </entry>
+</feed>

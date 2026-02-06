@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mercado-produtos2024-seguro.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mercado-produtos2024-seguro.shop/collections/all.atom"/>
+  <title>Mercado Promoções</title>
+  <updated>2024-10-16T09:53:11-03:00</updated>
+  <author>
+    <name>Mercado Promoções</name>
+  </author>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751248077119</id>
+    <published>2024-10-16T09:53:11-03:00</published>
+    <updated>2024-10-16T09:53:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/1-unidade"/>
+    <title>1 Unidade</title>
+    <s:type></s:type>
+    <s:vendor>Mercado Promoções</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/116211-pneu-pirelli-cinturato-p1-19560r15-aro-15-88h-pirelli-clube-da-borracha-964125_600x_c42d9f5e-08e3-43d5-a559-05389bcb210e.webp?v=1729083176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Mercado Promoções<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751248077119</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751115792703</id>
+    <published>2024-10-16T08:55:15-03:00</published>
+    <updated>2024-10-16T08:55:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-wanli-as028-23560r18-aro-18-103h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>235/60 R18</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/225-55R18.jpg_v=1729079775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>235/60 R18<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751115792703</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>25445</s:sku>
+      <s:grams>14422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751115759935</id>
+    <published>2024-10-16T08:55:15-03:00</published>
+    <updated>2024-10-16T08:55:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-pirelli-scorpion-22555r18-ht-aro-18-98h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>225/55 R18</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/225-60R18.jpg_v=1729079834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>225/55 R18<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751115759935</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>116319</s:sku>
+      <s:grams>10980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751015555391</id>
+    <published>2024-10-16T08:34:49-03:00</published>
+    <updated>2024-10-16T08:34:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-milever-mu069-23560r17-ht-aro-17-102h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>235/60 R17 HT</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/205-50R17.jpg_v=1729078535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>235/60 R17 HT<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751015555391</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>108570</s:sku>
+      <s:grams>11610</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751015522623</id>
+    <published>2024-10-16T08:34:49-03:00</published>
+    <updated>2024-10-16T08:34:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-wanli-h220-21560r17-aro-17-96h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>215/60 R17</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/205-55R17.jpg_v=1729078565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>215/60 R17<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751015522623</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>23710</s:sku>
+      <s:grams>10740</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751015457087</id>
+    <published>2024-10-16T08:34:49-03:00</published>
+    <updated>2024-10-16T08:34:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-wanli-sa302-21550r17-aro-17-95w-xl"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>215/50 R17</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/215-50R17.jpg_v=1729078613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>215/50 R17<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751015457087</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>75876</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751015424319</id>
+    <published>2024-10-16T08:34:48-03:00</published>
+    <updated>2024-10-16T08:34:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-wanli-sa302-20545r17-aro-17-88w-xl"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>205/45 R17</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/215-60R17.jpg_v=1729078677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>205/45 R17<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751015424319</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>24015</s:sku>
+      <s:grams>8959</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751015358783</id>
+    <published>2024-10-16T08:34:48-03:00</published>
+    <updated>2024-10-16T08:34:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-catchpower-plus-20545r17-aro-17-88w-xl"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>205/45 R17</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/225-65R17.jpg_v=1729078729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>205/45 R17<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751015358783</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>112291</s:sku>
+      <s:grams>8600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750967943487</id>
+    <published>2024-10-16T08:24:40-03:00</published>
+    <updated>2024-10-16T08:24:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-pirelli-cinturato-p1-19560r15-aro-15-88h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/185-55R16.jpg_v=1729077937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750967943487</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>116211</s:sku>
+      <s:grams>7960</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750967845183</id>
+    <published>2024-10-16T08:24:40-03:00</published>
+    <updated>2024-10-16T08:24:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-pirelli-cinturato-p1-18560r15-aro-15-88h-xl"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/205-55R16.jpg_v=1729077982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750967845183</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>116203</s:sku>
+      <s:grams>7810</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750966993215</id>
+    <published>2024-10-16T08:24:29-03:00</published>
+    <updated>2024-10-16T08:24:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-dewostone-wr080-18560r15-aro-15-84h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/205-60R16.jpg_v=1729078024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750966993215</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>95680</s:sku>
+      <s:grams>7120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750963618111</id>
+    <published>2024-10-16T08:23:48-03:00</published>
+    <updated>2024-10-16T08:23:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-dewostone-wr080-19560r15-aro-15-88h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/215-65R16_2.jpg_v=1729078066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750963618111</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>112160</s:sku>
+      <s:grams>8300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750963585343</id>
+    <published>2024-10-16T08:23:48-03:00</published>
+    <updated>2024-10-16T08:23:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf600-19560r15-aro-15-88h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/215-65R16.jpg_v=1729078114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750963585343</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>118958</s:sku>
+      <s:grams>7300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750927311167</id>
+    <published>2024-10-16T08:15:28-03:00</published>
+    <updated>2024-10-16T08:15:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-comfort-ii-19545r15-aro-15-82v-xl"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/45 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/185-60R15.jpg_v=1729077378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/45 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750927311167</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>94536</s:sku>
+      <s:grams>6940</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750925672767</id>
+    <published>2024-10-16T08:15:06-03:00</published>
+    <updated>2024-10-16T08:15:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-mazzini-eco809-18560r15-aro-15-84h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/185-65R15.jpg_v=1729077434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750925672767</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>100072</s:sku>
+      <s:grams>6980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750925607231</id>
+    <published>2024-10-16T08:15:06-03:00</published>
+    <updated>2024-10-16T08:15:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-comfort-ii-19560r15-aro-15-88h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/60 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/195-55R15.jpg_v=1729077471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/60 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750925607231</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>86533</s:sku>
+      <s:grams>7510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750925574463</id>
+    <published>2024-10-16T08:15:06-03:00</published>
+    <updated>2024-10-16T08:15:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-milever-mp270-19565r15-aro-15-91h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/65 R15</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/195-60R15.jpg_v=1729077511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/65 R15<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750925574463</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>108081</s:sku>
+      <s:grams>7860</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750860398911</id>
+    <published>2024-10-16T08:01:08-03:00</published>
+    <updated>2024-10-16T08:01:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-comfort-ii-18570r14-aro-14-88h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185/70 R14</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/175-65R14.jpg_v=1729076677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185/70 R14<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750860398911</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>103454</s:sku>
+      <s:grams>7040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750860333375</id>
+    <published>2024-10-16T08:01:08-03:00</published>
+    <updated>2024-10-16T08:01:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf600-18570r14-aro-14-88h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185/70 R14</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/175-70R14.jpg_v=1729076746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185/70 R14<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750860333375</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>103136</s:sku>
+      <s:grams>6900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750860300607</id>
+    <published>2024-10-16T08:01:07-03:00</published>
+    <updated>2024-10-16T08:01:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-aptany-rl108-185r14c-aro-14c-102r-8-lonas"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185 R14C</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/175-75R14.jpg_v=1729076779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185 R14C<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750860300607</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>40380</s:sku>
+      <s:grams>9360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750860202303</id>
+    <published>2024-10-16T08:01:07-03:00</published>
+    <updated>2024-10-16T08:01:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf600-19570r14-aro14-91h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>195/70 R14</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/175-80R14.jpg_v=1729076817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>195/70 R14<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pix_label</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750860202303</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>121436</s:sku>
+      <s:grams>7400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750860169535</id>
+    <published>2024-10-16T08:01:07-03:00</published>
+    <updated>2024-10-16T08:01:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf600-16560r14-aro-14-75h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>165/60 R14</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/185-65R14.jpg_v=1729076861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>165/60 R14<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750860169535</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>121410</s:sku>
+      <s:grams>5719</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9750860136767</id>
+    <published>2024-10-16T08:01:07-03:00</published>
+    <updated>2024-10-16T08:01:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-landspider-18565r14-aro-14-86h-citytraxx-86h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>185/65 R14</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/185-70R14.jpg_v=1729076903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>185/65 R14<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pix_label</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9750860136767</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>147125</s:sku>
+      <s:grams>7250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9748061192511</id>
+    <published>2024-10-15T10:24:33-03:00</published>
+    <updated>2024-10-15T10:24:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-sunfull-sf600-17575r13-aro-13-84t"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>175/75 R13</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/165-70R13.jpg_v=1728999150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>175/75 R13<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aumente a sua segurança com a avançada tecnologia desse pneu. Este pneu proporciona distâncias de frenagem seguras e uma aderência superior, proporcionando-lhe tranquilidade ao volante e segurança para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9748061192511</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>118966</s:sku>
+      <s:grams>5900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9748061159743</id>
+    <published>2024-10-15T10:24:33-03:00</published>
+    <updated>2024-10-15T10:24:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-lanvigator-comfort-ii-17570r13-aro-13-82t"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>175/70 R13</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/175-60R13.jpg_v=1728999305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>175/70 R13<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aumente a sua segurança com a avançada tecnologia desse pneu. Este pneu proporciona distâncias de frenagem seguras e uma aderência superior, proporcionando-lhe tranquilidade ao volante e segurança para você e sua família.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9748061159743</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>103438</s:sku>
+      <s:grams>6140</s:grams>
+    </s:variant>
+  </entry>
+</feed>

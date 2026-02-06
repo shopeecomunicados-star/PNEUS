@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mercado-produtos2024-seguro.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mercado-produtos2024-seguro.shop/collections/aro-18.atom"/>
+  <title>Mercado Promoções</title>
+  <updated>2024-10-16T08:55:15-03:00</updated>
+  <author>
+    <name>Mercado Promoções</name>
+  </author>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751115792703</id>
+    <published>2024-10-16T08:55:15-03:00</published>
+    <updated>2024-10-16T08:55:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-wanli-as028-23560r18-aro-18-103h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>235/60 R18</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/225-55R18.jpg_v=1729079775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>235/60 R18<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers-resort</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751115792703</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>25445</s:sku>
+      <s:grams>14422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mercado-produtos2024-seguro.shop/products/9751115759935</id>
+    <published>2024-10-16T08:55:15-03:00</published>
+    <updated>2024-10-16T08:55:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://mercado-produtos2024-seguro.shop/products/pneu-pirelli-scorpion-22555r18-ht-aro-18-98h"/>
+    <title>Promoção [Entrega Rápida]</title>
+    <s:type>225/55 R18</s:type>
+    <s:vendor>Oficial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0909/5056/6207/files/225-60R18.jpg_v=1729079834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Oficial<br>
+        <strong>Tipo: </strong>225/55 R18<br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experimente a dirigibilidade e o desempenho do seu veículo com o Pneu Fabricado com precisão e experiência, esse pneu oferece capacidade de resposta e capacidade de curva superiores, proporcionando uma experiência de direção segura para você e sua família.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>carnaval2024</s:tag>
+    <s:tag>mes_consumidor_2024</s:tag>
+    <s:tag>pix_label</s:tag>
+    <s:tag>precos_congelados_abr24</s:tag>
+    <s:variant>
+      <id>https://mercado-produtos2024-seguro.shop/products/9751115759935</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>116319</s:sku>
+      <s:grams>10980</s:grams>
+    </s:variant>
+  </entry>
+</feed>
